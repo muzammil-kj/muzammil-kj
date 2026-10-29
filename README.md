@@ -2,16 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=200&section=header&text=Muzammil%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20LLM%20%26%20RAG%20Systems%20%7C%20AI%20Agent%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://github.com/muzamil-kj">
+<a href="https://github.com/muzammil-kj">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=650&lines=Building+AI+Agents+%26+RAG+Pipelines;Turning+LLMs+into+Production+Systems;Python+%7C+FastAPI+%7C+Vector+Search+%7C+Docker;Final+Year+Project%3A+LifeSync+(NUML+Nexus+2025+Finalist)" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-4A4A4A?style=for-the-badge&logo=vercel&logoColor=white)](https://3d-portfolio-omega-jet.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/muzammil-khan-87b185267/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/muzammil-kj)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muzammilkhan.kj@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muzamil-kj)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muzammil-kj)
 
 </div>
 
@@ -102,7 +102,7 @@ A full-stack AI wellness platform combining an LLM-based chatbot, real-time faci
 - 👩‍⚕️ **Therapist Dashboard:** Comprehensive interface for reviewing AI-generated mental health reports.
 - 🔐 **Security:** Encrypted data storage with full user management and consultation booking.
 
-[![View Code](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/muzamil-kj/LifesyncKhan.git)
+[![View Code](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/muzammil-kj/LifesyncKhan.git)
 
 ---
 
@@ -117,7 +117,7 @@ Binary classification system predicting heart disease presence from a 303-patien
 - 📈 **Evaluation:** Precision 81% · Recall 89% · F1-Score 85% with ROC/AUC evaluation.
 - 🧩 **Feature Importance:** Identified `sex` and `thal` as primary negative predictors, and `cp` (chest pain type) as the primary positive predictor.
 
-[![View Code](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/muzamil-kj/cardio_project.git)
+[![View Code](https://img.shields.io/badge/View_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/muzammil-kj/cardio_project.git)
 
 ---
 
@@ -162,9 +162,9 @@ National University of Modern Languages (NUML), Islamabad · Feb 2022 – Jan 20
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-muzammilkhan.kj%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muzammilkhan.kj@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muzammil_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/muzammil-khan-87b185267/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muzammil_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muzammil-kj)
 [![Portfolio](https://img.shields.io/badge/Portfolio-3D_Site-4A4A4A?style=for-the-badge&logo=vercel&logoColor=white)](https://3d-portfolio-omega-jet.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-muzamil--kj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muzammil-kj)
+[![GitHub](https://img.shields.io/badge/GitHub-muzammil--kj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muzammil-kj)
 
 </div>
 
