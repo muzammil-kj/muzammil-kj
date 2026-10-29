@@ -152,18 +152,19 @@ National University of Modern Languages (NUML), Islamabad · Feb 2022 – Jan 20
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=muzamil-kj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzamil-kj&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=muzamil-kj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muzamil-kj&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzamil-kj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muzamil-kj&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=muzamil-kj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
