@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=200&section=header&text=Muzammil%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20LLM%20%26%20RAG%20Systems%20%7C%20AI%20Agent%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=200&section=header&text=Muzammil%20Khan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20LLM%20%26%20RAG%20Systems%20%7C%20AI%20Agent%20Developer&descAlignY=55&descSize=16" width="100%"/>
+
+<br/>
 
 <a href="https://github.com/muzammil-kj">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=650&lines=Building+AI+Agents+%26+RAG+Pipelines;Turning+LLMs+into+Production+Systems;Python+%7C+FastAPI+%7C+Vector+Search+%7C+Docker;Final+Year+Project%3A+LifeSync+(NUML+Nexus+2025+Finalist)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=550&lines=Building+AI+Agents+%26+RAG+Pipelines;Turning+LLMs+into+Production+Systems;Python+%7C+FastAPI+%7C+Vector+Search+%7C+Docker;Final+Year+Project%3A+LifeSync+(NUML+Nexus+2025+Finalist)" alt="Typing SVG" />
 </a>
 
 <br/><br/>
