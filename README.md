@@ -9,7 +9,7 @@
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-4A4A4A?style=for-the-badge&logo=vercel&logoColor=white)](https://3d-portfolio-omega-jet.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/muzammil-kj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzammil-khan-87b185267/)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muzammilkhan.kj@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muzammil-kj)
 
@@ -141,10 +141,10 @@ National University of Modern Languages (NUML), Islamabad · Feb 2022 – Jan 20
 <div align="center">
 
 <a href="https://github.com/muzammil-kj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muzammil-kj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Muzammil's GitHub Stats" width="450" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muzammil-kj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Muzammil's GitHub Stats" width="450" />
 </a>
 <a href="https://github.com/muzammil-kj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-kj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-kj&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="350" />
 </a>
 
 <br/><br/>
@@ -162,7 +162,7 @@ National University of Modern Languages (NUML), Islamabad · Feb 2022 – Jan 20
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-muzammilkhan.kj%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muzammilkhan.kj@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muzammil_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muzammil-kj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muzammil_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzammil-khan-87b185267/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-3D_Site-4A4A4A?style=for-the-badge&logo=vercel&logoColor=white)](https://3d-portfolio-omega-jet.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-muzammil--kj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muzammil-kj)
 
