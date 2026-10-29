@@ -141,10 +141,7 @@ National University of Modern Languages (NUML), Islamabad · Feb 2022 – Jan 20
 <div align="center">
 
 <a href="https://github.com/muzammil-kj">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=muzammil-kj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Muzammil's GitHub Stats" width="450" />
-</a>
-<a href="https://github.com/muzammil-kj">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=muzammil-kj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="350" />
+  <img src="https://metrics.lecoq.io/muzammil-kj?template=classic&base=header%2C%20activity%2C%20community&config.timezone=Asia%2FKarachi" alt="GitHub Metrics" width="80%" />
 </a>
 
 <br/><br/>
