@@ -5,7 +5,7 @@
 <h3>AI/ML Engineer | LLM & RAG Systems | AI Agent Developer</h3>
 
 <a href="https://github.com/muzammil-kj">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=500&lines=Building+AI+Agents+%26+RAG+Pipelines;Turning+LLMs+into+Production+Systems;Python+%7C+FastAPI+%7C+Vector+Search+%7C+Docker;LifeSync+(NUML+Nexus+2025+Finalist)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=500&lines=Building+AI+Agents+%26+RAG+Pipelines;Turning+LLMs+into+Production+Systems;Python+%7C+FastAPI+%7C+Vector+Search+%7C+Docker;LifeSync+(NUML+Nexus+2025+Participant)" alt="Typing SVG" />
 </a>
 
 <br/><br/>
