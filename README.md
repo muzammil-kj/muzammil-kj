@@ -1,6 +1,6 @@
 <div align="center">
-  
-<img src="https://capsule-render-flame.vercel.app/api?type=waving&color=0:0A66C2,50:181717,100:0A66C2&height=230&section=header&text=Muzammil%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20RAG%20%26%20Agents&descAlignY=62&descSize=20" width="100%" alt="Muzammil Khan" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=MUZAMMIL+KHAN&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=blink&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" width="100%" alt="Muzammil Khan" />
 
 <a href="https://github.com/muzammil-kj">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=700&color=0A66C2&center=true&vCenter=true&width=650&lines=I'm+Muzammil+Khan;AI+Engineer+%7C+LLM+Systems+%7C+RAG+%26+Agents;Building+AI+agents+that+know+when+to+ask+a+human" alt="Typing animation" />
@@ -206,4 +206,4 @@ Feb 2022 – Jan 2026 · **CGPA 3.56 / 4.0**
 
 </div>
 
-<img src="https://capsule-render-flame.vercel.app/api?type=waving&color=0:181717,50:0A66C2,100:181717&height=140&section=footer&animation=fadeIn" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,50:0A66C2,100:181717&height=140&section=footer&animation=fadeIn" width="100%" alt="footer" />
