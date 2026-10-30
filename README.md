@@ -1,5 +1,4 @@
 
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:181717,100:0A66C2&height=230&section=header&text=Muzammil%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20RAG%20%26%20Agents&descAlignY=62&descSize=20" width="100%" alt="Muzammil Khan" />
