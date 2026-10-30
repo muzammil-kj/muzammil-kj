@@ -180,20 +180,12 @@ Feb 2022 – Jan 2026 · **CGPA 3.56 / 4.0**
 
 <div align="center">
 
-<img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=muzammil-kj&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight" />
-<img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-kj&amp;layout=donut&amp;hide_border=true&amp;theme=tokyonight" />
-
-<br/>
-
-<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=muzammil-kj&amp;theme=tokyonight&amp;no-frame=true&amp;row=1&amp;column=6" />
+<img height="180" alt="GitHub stats" src="./profile/stats.svg" />
+<img height="180" alt="Top languages" src="./profile/top-langs.svg" />
 
 <br/>
 
 <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=muzammil-kj&amp;hide_border=true&amp;theme=tokyonight" />
-
-<br/>
-
-<img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=muzammil-kj&amp;theme=tokyo-night&amp;hide_border=true" width="90%" />
 
 </div>
 
