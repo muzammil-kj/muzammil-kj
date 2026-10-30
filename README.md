@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A66C2,50:181717,100:0A66C2&amp;height=230&amp;section=header&amp;text=Muzammil%20Khan&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20RAG%20%26%20Agents&amp;descAlignY=62&amp;descSize=20" width="100%" alt="Muzammil Khan" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:181717,100:0A66C2&height=230&section=header&text=Muzammil%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20RAG%20%26%20Agents&descAlignY=62&descSize=20" width="100%" alt="Muzammil Khan" />
 
 <a href="https://github.com/muzammil-kj">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=700&amp;color=0A66C2&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Building+AI+agents+that+know+when+to+ask+a+human;Turning+LLMs+into+production+systems;RAG+pipelines+%7C+FastAPI+%7C+Qdrant+%7C+Docker;Automation+Engineer+%E2%80%94+DevSynt+Rise+Summer+Internship+2026+(1st+Place)" alt="Typing animation" />
@@ -206,4 +206,4 @@ Feb 2022 – Jan 2026 · **CGPA 3.56 / 4.0**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:181717,50:0A66C2,100:181717&amp;height=140&amp;section=footer&amp;animation=fadeIn" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:181717,50:0A66C2,100:181717&height=140&section=footer&animation=fadeIn" width="100%" alt="footer" />
