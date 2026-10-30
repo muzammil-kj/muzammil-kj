@@ -1,9 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:181717,100:0A66C2&height=230&section=header&text=Muzammil%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20RAG%20%26%20Agents&descAlignY=62&descSize=20" width="100%" alt="Muzammil Khan" />
-
 <a href="https://github.com/muzammil-kj">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=700&amp;color=0A66C2&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Building+AI+agents+that+know+when+to+ask+a+human;Turning+LLMs+into+production+systems;RAG+pipelines+%7C+FastAPI+%7C+Qdrant+%7C+Docker;Automation+Engineer+%E2%80%94+DevSynt+Rise+Summer+Internship+2026+(1st+Place)" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=700&amp;color=0A66C2&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=AI+Engineer+%7C+LLM+Systems+%7C+RAG+%26+Agents;Building+AI+agents+that+know+when+to+ask+a+human;Turning+LLMs+into+production+systems" alt="Typing animation" />
 </a>
 
 <br/><br/>
