@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/muzammil-kj">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=700&amp;color=0A66C2&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=AI+Engineer+%7C+LLM+Systems+%7C+RAG+%26+Agents;Building+AI+agents+that+know+when+to+ask+a+human;Turning+LLMs+into+production+systems" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=700&color=0A66C2&center=true&vCenter=true&width=650&lines=I'm+Muzammil+Khan;AI+Engineer+%7C+LLM+Systems+%7C+RAG+%26+Agents;Building+AI+agents+that+know+when+to+ask+a+human" alt="Typing animation" />
 </a>
 
 <br/><br/>
